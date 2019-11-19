@@ -1,6 +1,6 @@
 # eManometer Plugin for CraftBeerPi 3.0
 
-Allows your eManometer digital Bottle Manometer / Spunding Valve to send data to CraftBeerPi 3.0, such as the current temperature, pressure readings, carbonation. The plugin allows you to create multiple sensors, each of which is associated with a different data type that the eManometer is capturing, so that you can use these sensors as you would any other sensor in CraftBeerPi.  You can also use multiple eManometers at the same time. See below for setup instructions and some screenshots of the configuration options.
+Allows your eManometer digital Bottle Gauge / Spunding Valve to send data to CraftBeerPi 3.0, such as the current temperature, pressure readings, carbonation. The plugin allows you to create multiple sensors, each of which is associated with a different data type that the eManometer is capturing, so that you can use these sensors as you would any other sensor in CraftBeerPi.  You can also use multiple eManometers at the same time. See below for setup instructions and some screenshots of the configuration options.
 
 ## Configuration
 
